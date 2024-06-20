@@ -8,5 +8,4 @@
 5. pip install matplotlib
 6. pip install vaderSentiment
 
-- To run the code use :  
-streamlit run filename.py  
+- To run the code use : streamlit run filename.py  
